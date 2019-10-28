@@ -7,7 +7,7 @@ desc: >-
   or services online.
 site: https://grandnode.com/
 tags:
-- dotnet
+- ".net"
 - c#
 - ecommerce
 - mongodb
@@ -18,5 +18,5 @@ upforgrabs:
   name: help wanted
   link: https://github.com/grandnode/grandnode/labels/help%20wanted
 stats:
-  issue-count: 19
-  last-updated: '2019-10-09T07:23:11Z'
+  issue-count: 17
+  last-updated: '2019-10-28T08:55:11Z'

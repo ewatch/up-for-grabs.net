@@ -6,7 +6,7 @@ tags:
 - javascript
 - twine
 - sugarcube
-- d&d
+- dungeons-and-dragons
 - procedural-generation
 - random-generation
 - generation
@@ -16,4 +16,4 @@ upforgrabs:
   link: https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/labels/help%20wanted
 stats:
   issue-count: 20
-  last-updated: '2019-10-08T04:57:37Z'
+  last-updated: '2019-10-27T23:54:51Z'
